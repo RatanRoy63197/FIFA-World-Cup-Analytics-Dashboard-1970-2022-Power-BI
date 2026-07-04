@@ -239,7 +239,8 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshots here)
+![Uploading image.png…]()
+
 
 ---
 
